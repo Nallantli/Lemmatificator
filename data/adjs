@@ -1,0 +1,12 @@
+bonus		bona		bonum		bon		*		meli		optim			L2M		L1		L2N		good;honest;brave;noble;kind;pleasant|right|useful|valid|healthy
+malus		mala		malum		mal		*		pei			pessim			L2M		L1		L2N		unpleasant;distressing;painful;nasty;bad|unpleasant to the senses|bad;evil;wicked;mischevous|destructive;hurtful;noxious;evil|unkind;hostile;abusive|unlucky;unfavorable;unfortunate;adverse;evil|poor of condition;inept
+simplex		simplex		simplex		simplic	*		simplici	simplicissim	L3I		L3I		L3NIA	single|simple;plain;uncompounded|pure;unmixed|sincere;frank;open;without guile
+trIstis		trIstis		trIste		trIst	*		trIsti		trIstissim		L3I		L3I		L3NIA	single|simple;plain;uncompounded|pure;unmixed|sincere;frank;open;without guile
+quantusvIs	quantavIs	quantumvIs	quant	vIs		*			*				L2M		L1		L2N		as much as you want;as great as you please;however great;ever so great
+quI			quae		quod		*		*		*			*				I_QUI	I_QUAE	I_QUOD	who;what;which|anyone;any
+quI			quae		quod		*		cumque	*			*				I_QUI	I_QUAE	I_QUOD	whoever;whatever|whosoever;whatsoever
+is			ea			id			*		*		*			*				I_IS	I_EA	I_ID	this;that
+tuus		tua			tuum		tu		*		*			*				L2M		L1		L2N		your;yours
+suus		sua			suum		su		*		*			*				L2M		L1		L2N		(reflexive)his;her;its;their
+noster		nostra		nostrum		nostr	*		*			*				L2MR	L1		L2N		our;ours
+vester		vestra		vestrum		vestr	*		*			*				L2MR	L1		L2N		(plural)your;yours
